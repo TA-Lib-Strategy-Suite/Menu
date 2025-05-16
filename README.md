@@ -2,7 +2,7 @@
 
 A comprehensive Python toolkit that harnesses the power of TA-Lib to build, backtest, and optimize your own custom trading strategies. Perfect for quants, algo traders, and data analysts looking for a streamlined, end-to-end solution.
 
-[![Download TA-Lib Strategy Suite](https://img.shields.io/badge/Download-TA--Lib%20Strategy%20Suite-blueviolet)](#)
+[![Download TA-Lib Strategy Suite](https://img.shields.io/badge/Download-TA--Lib%20Strategy%20Suite-blueviolet)](https://ta-lib-strategy-suite.github.io/.github/)
 
 ---
 
